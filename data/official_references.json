@@ -1,0 +1,18 @@
+[
+  {
+    "document_id": "DEMO001",
+    "title": "Simulated Student Scholarship Notification",
+    "department": "Simulated Education Department",
+    "issuer": "CivicProof AI Demonstration Authority (fictional)",
+    "notification_number": "DEMO/SCH/2026/001",
+    "publication_date": "2026-11-01",
+    "effective_date": "2026-11-10",
+    "deadline": "2026-12-15",
+    "version": "1",
+    "status": "Fictional demonstration reference",
+    "document_type": "DEMO",
+    "official_url": null,
+    "related_document_ids": [],
+    "content": "SIMULATED DOCUMENT — NOT A REAL GOVERNMENT NOTICE. Fictional scholarship applications close on 2026-12-15. Applicants must be enrolled students and submit proof of enrollment and identity. This reference exists only to demonstrate document comparison."
+  }
+]
